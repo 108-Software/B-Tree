@@ -22,7 +22,6 @@ def main():
             BTree.BTree_Class.add_Node(int(key), int(value))
 
 
-
         if answer == "2":
             print(" Введите ключ: ")
             key = input()
